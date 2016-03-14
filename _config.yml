@@ -1,0 +1,28 @@
+name: Mulroy Music Management
+favicon: null
+layout_spectrum: 0.126684935297817
+typography_spectrum: 0.06225517997518182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.23288252227939665
+  lightness: 0.837020025588572
+  saturation: 0.27530698059126735
+  rhythmicContrast: 0.872555956011638
+purpose: []
